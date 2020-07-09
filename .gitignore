@@ -37,6 +37,8 @@ Release/
 *.ko
 *.obj
 *.elf
+*.o-arm64
+*.o-x86_64
 
 # Linker output
 *.ilk
@@ -52,6 +54,7 @@ Release/
 *.a
 *.la
 *.lo
+*.a-x86_64
 
 # Shared objects (inc. Windows DLLs)
 *.dll
